@@ -1,0 +1,130 @@
+#------------------------------------------------------------------------
+General Stats:  
+  LV:   15
+  HP:	  121 
+
+  Wisdom	    20		Constitution  +4 
+  Intelligence  15  		Proficiancy	  +5
+  Charisma	    10	      Initiative	  +4
+  strength	    13
+  Dexterity	    18                       
+
+#------------------------------------------------------------------------
+Spell slots:  [----]
+    - 1     4 [xxxx]
+    - 2     3 [xxx-]
+    - 3     3 [xxx-]
+    - 4     2 [xx--]
+
+
+#------------------------------------------------------------------------
+Armor:	Leather armor
+
+#------------------------------------------------------------------------
+Items:
+
+ - Short Sword
+    Damage: 1d6 piercing
+
+    Proficiency with a shortsword allows you to add your proficiency bonus 
+    to the attack roll for any attack you make with it.
+
+ - M95 Sniper Rifle
+    Damage: 3d12
+    Weight: 15lb
+    MagCap: 4 shot (1 turn reload)
+    Range scopeless: (disadvantage 20 / normal 180 / disadventage 540)
+    Range scoped:    (disadvantage 30 / normal 540 / disadventage 1000)
+    Ammo: 24 / Day(8u)  160 (0-0)
+      3 Floshbing
+      3 Smokes
+      2 stun
+            hold person
+      3 Astral bullets
+            Visibility trough walls for 100 rounds or 10mins
+      Editing: 5 /day Damage modifier
+               3 /day Tacticals (floshbong, trap, smokes, ...)
+               1 /day Strong (counterspells,...)
+
+Arrows 
+  - default
+  - fire		      5
+      3rd-level transmutation
+
+      Casting Time: 1 action
+      Range: Touch
+      Components: V, S
+      Duration: Concentration, up to 1 hour
+
+      You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell’s magic ends on the piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
+
+      At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
+
+      Spell Lists. Druid, Ranger, Sorcerer, Wizard, Artificer
+	
+  - Floshbong		2
+      Blinded for 1 round
+
+  - Thundershot		10
+        cast: thunderclap
+        Evocation cantrip
+
+        Casting Time: 1 action
+        Range: Self (5-foot radius)
+        Components: S
+        Duration: Instantaneous
+
+        You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
+
+        At Higher Levels. The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+  - Ice arrow		10 
+        stun 1 round
+
+  - Three Blade Arrow	16
+        +3 damage
+
+  - Darkness Arrow	5 - 1
+	  Darknes spell
+			
+  - Teleportation Arrow 1
+
+    
+#------------------------------------------------------------------------
+Magic Items:
+  - Semi Auto Magicbow                  "atuned"
+        extra attack
+
+  - sandstrom dancer                    "atuned"
+	  walk | cast => 8 charges
+    Wondrous item, rare (requires attunement)
+
+    This golden cloak billows illusory sand around you when you walk or 
+    cast a spell. The cloak has 8 charges and regains 1d6 + 2 expended charges
+    each day at dawn. While wearing the cloak, you can expend 1 or more charges 
+    to cast the following spells using the cloak (save DC 15)- blur (2 charges),
+    call lightning (3 charges), create or destroy water (1 charge), 
+    or hallucinatory terrain (4 charges).
+    I feel the heat of the desert wind. I feel the warmth of the unrelenting sun
+    I feel the fire of a battle worth winning.
+
+  - timepiercer                         "atuned"
+	  +2 on atcack & damage
+
+  - Invisy cloak
+
+  - Sending Stone
+      New phone who dis
+
+  - Potion of Necrotic Resistance 4
+        When you drink this potion, you gain resistance to necrotic damage 
+        for 1 hour.
+  
+  - Potion of Climbing 4
+      Potion, common
+      When you drink this potion, you gain a climbing speed equal to your 
+      walking speed for 1 hour. During this time, you have advantage on 
+      Strength (Athletics) checks you make to climb. 
+      The potion is separated into brown, silver, and gray layers 
+      resembling bands of stone. Shaking the bottle fails to mix the colors.
+#------------------------------------------------------------------------
