@@ -1,20 +1,35 @@
 #------------------------------------------------------------------------
 General Stats:  
-  LV:   15
-  HP:	  121 
+  LV:   15                    class:        ranger
+  HP:	  121,                   subclass:     hunter
+  Speed: 40ft
 
-  Wisdom	    20		Constitution  +4 
+  Wisdom	    20		Initiative	  +4
   Intelligence  15  		Proficiancy	  +5
-  Charisma	    10	      Initiative	  +4
-  strength	    13
-  Dexterity	    18                       
+  Charisma	    10	      
+  Strength	    13
+  Dexterity	    18   - 2<de    ac (w<w)     
+  Constitution  18                
+
+#------------------------------------------------------------------------
+Saving Throws:
+  
+  Wisdom	    20		
+  Intelligence  15  	
+  Charisma	    10	      
+  Strength	    13  + pro
+  Dexterity	    18  + pro
+  Constitution  18    
+
+
+
 
 #------------------------------------------------------------------------
 Spell slots:  [----]
-    - 1     4 [xxxx]
+    - 1     4 [xgx]
     - 2     3 [xxx-]
     - 3     3 [xxx-]
-    - 4     2 [xx--]
+    - 4     2 [x--]
 
 
 #------------------------------------------------------------------------
@@ -23,30 +38,53 @@ Armor:	Leather armor
 #------------------------------------------------------------------------
 Items:
 
- - Short Sword
-    Damage: 1d6 piercing
+ - Short Sword (1d6 + 4dex)_(d20+9prodex)
+
+            />_________________________________
+      [########[]_________________________________>
+            \>
+            
+    Damage: 1d6 + 4(dex) piercing
 
     Proficiency with a shortsword allows you to add your proficiency bonus 
     to the attack roll for any attack you make with it.
 
- - M95 Sniper Rifle
+ - M95 Sniper Rifle (3d12+4dex)_(d20+9prodex+2arc)
+                            /*,,.,,*..*.,.*.,((..*/
+                                    /  /  /
+            ____         __Д.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Д.,.,.,.,.,.,.,_
+            \ \     \_/_\      -o    ===       ------  ;;;;;;;;;;;;;;;;;;;;▄▄▄▄▄▄    
+            /_-----   /    /(/_)‾‾‾ ██/‾‾ {_/‾     " " (_-___}----------------------------------------------------
+                  /__/            {██}  
+                  
+   
     Damage: 3d12
     Weight: 15lb
     MagCap: 4 shot (1 turn reload)
     Range scopeless: (disadvantage 20 / normal 180 / disadventage 540)
     Range scoped:    (disadvantage 30 / normal 540 / disadventage 1000)
     Ammo: 24 / Day(8u)  160 (0-0)
-      3 Floshbing
-      3 Smokes
-      2 stun
+      02 Floshbing
+      03 Smokes
+      xx Holy water
+      21 Explosive x2?
+      02 stun
             hold person
-      3 Astral bullets
+      03 Astral bulletsx;f
             Visibility trough walls for 100 rounds or 10mins
       Editing: 5 /day Damage modifier
                3 /day Tacticals (floshbong, trap, smokes, ...)
                1 /day Strong (counterspells,...)
+               
 
 Arrows 
+                                                                               
+                                                                                
+     
+     _.-'` |___________________________//////
+      `'-._|                           \\\\\\
+
+
   - default
   - fire		      5
       3rd-level transmutation
@@ -89,16 +127,42 @@ Arrows
 			
   - Teleportation Arrow 1
 
+  - bottled mustard gas
+
     
 #------------------------------------------------------------------------
-Magic Items:
-  - Semi Auto Magicbow                  "atuned"
+Magic Items (4AT): 
+  - Semi Auto Magicbow                  "atuned"      (d20+9prodex+2arc)
+      
         extra attack
+                                     ______
+                  |\_______________ (_____\\______________
+            HH======#H###############H#######################
+                  ' ~""""""""""""""`##(_))#H\"""""Y########
+                                    ))    \#H\       `"Y###
+                                    "      }#H)
 
   - sandstrom dancer                    "atuned"
 	  walk | cast => 8 charges
     Wondrous item, rare (requires attunement)
 
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣶⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣦⡈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣷⣤⣈⠙⠛⠛⠛⠉⣉⣠⣴⡆⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀
+                  ⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀
+                  ⠀⠀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀
+                  ⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢃⣾⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⡇⠀
+                  ⠀⠀⠘⢿⣿⣿⣿⠿⠿⠛⠋⣁⣴⣿⣿⣿⣿⣿⣿⣿⡿⢋⣾⣿⣿⣿⣿⣿⠁⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⢾⣿⣿⣿⣿⣿⠏⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠙⣿⣿⣿⠏⠀⠀⠀
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⠃⠀⠀⠀⠀
+
+
+w
     This golden cloak billows illusory sand around you when you walk or 
     cast a spell. The cloak has 8 charges and regains 1d6 + 2 expended charges
     each day at dawn. While wearing the cloak, you can expend 1 or more charges 
@@ -111,16 +175,61 @@ Magic Items:
   - timepiercer                         "atuned"
 	  +2 on atcack & damage
 
+                        />
+            (           //-------------------------------------(
+            (*)OXOXOXOXO(*>============================================\
+            (           \\------------------------------------------)
+                        \>
+
   - Invisy cloak
+            ⠄⠄⠄⠄⠄⠄⠄⠄⢀⣀⣤⣴⣶⠞⠛⢶⣤⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄  
+            -⠄⠄⠄⠄⣠⡶⠿⠿⠿⠿⠟⠁⣰⠇⣈⠻⣿⣿⣷⣶⣤⣀⠄⠄⠄⠄⠄
+            ⠄⠄⠄⢠⣾⣿⡗⢿⣶⣶⣤⣴⣾⠟⢠⡏⠄⠄⠈⠙⠿⣿⣿⣷⣦⠄⠄⠄
+            ⠄⠄⢠⣿⣿⣿⠇⢶⣤⣀⡺⠿⠋⣠⡾⠄⠄⢤⣶⣤⣄⠈⠛⢿⣿⣷⡄⠄
+            ⠄⢀⣿⣿⣿⣣⣿⣷⣌⡛⢿⣿⣾⡟⠁⢤⣤⣀⠙⢿⣿⣷⣄⠄⠙⢿⣷⠄
+            ⠄⣼⣿⣿⣳⣿⣿⣿⣿⣿⣷⣦⢭⣶⣇⠄⠻⣿⣧⡀⠙⢿⣿⣷⣦⡀⠙⠇
+            ⢰⣿⣿⣳⣿⣿⣻⣿⢿⣿⣿⣿⣿⣿⣿⣷⡀⠹⣿⣿⣄⠄⠹⣿⣿⣴⡄⠄
+            ⢸⡿⣱⣿⣿⣏⣿⣿⢸⣿⣿⣧⣿⣿⣿⣿⣷⡀⠘⣿⣿⣦⠄⠈⢿⡿⣱⣿
+            ⠘⣵⣿⣿⣿⣸⣿⣿⢾⣿⣿⣿⢸⣿⣿⣿⣿⣷⠄⡜⣿⣿⣷⠄⠄⠁⣿⡿
+            ⢸⣶⣍⢿⢧⣿⣿⣿⢸⣿⣿⣿⢸⣿⣿⣿⣿⣿⣇⠘⡜⣿⣷⣴⣦⣀⠘⠄
+            ⠄⠻⣿⢇⣾⣿⣿⣿⢸⣿⣿⣿⡯⣿⣿⣿⣿⣿⣿⡆⠘⡽⡟⢫⣴⣶⡆⠄
+            ⠄⠄⠙⢷⣿⡭⠡⠆⢸⣿⣿⣿⡇⠿⣿⣿⣿⣿⠛⠻⠄⢫⠄⣀⡹⣿⡇⠄
+            ⠄⠄⠄⠄⠙⠃⠄⢀⣚⣭⣭⣭⡍⠄⣿⣿⣿⡿⢟⣛⣂⠄⣼⡿⣣⡟⠄⠄
+            ⠄⠄⠄⠄⠄⠄⠉⠙⠻⣿⣿⣿⣁⣀⣈⣩⣭⣶⣿⣿⣿⣷⣭⡶⠋⠄⠄⠄
 
   - Sending Stone
-      New phone who dis
+            __i
+            |---|    
+            |[_]|    
+            |:::|    
+            |:::|    
+            `\   \   
+              \_=_\ 
+                  New phone who dis
 
-  - Potion of Necrotic Resistance 4
+
+
+Potions:
+
+        .-.   p--- .'~`. .-=~=-.   :~:      |~|   .-~~8~~-.  |~|  .-.
+      .'__( .'~`.  `. .'  )___(  .'   `.    | |   |~~---~~|  | |  )__`.
+      | l | | m |  .'n`. (  o  ) |  p  |] .' q `. |   r   | .'s`. | t |
+      |___| |___|  `._.'  `._.'  |_____|  `.___.' `._____.' `._.' |___|
+
+  - potion of speed     0
+      When you drink this potion, you gain the effect of the haste spell for 1 minute 
+      (no concentration required). The potion's yellow fluid is streaked with black 
+      and swirls on its own.
+
+
+  - + 1  aving throw pot
+
+  - 
+  - Potion of Necrotic Resistance 1
         When you drink this potion, you gain resistance to necrotic damage 
         for 1 hour.
   
-  - Potion of Climbing 4
+  - Potion of Climbing 2
       Potion, common
       When you drink this potion, you gain a climbing speed equal to your 
       walking speed for 1 hour. During this time, you have advantage on 
@@ -128,3 +237,4 @@ Magic Items:
       The potion is separated into brown, silver, and gray layers 
       resembling bands of stone. Shaking the bottle fails to mix the colors.
 #------------------------------------------------------------------------
+elemental 102 - 36
