@@ -176,7 +176,6 @@ Spells: savedc18(8+prowis) hitdc(d20+10prowis)
 
         At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 
-        Spell Lists. Ranger
   - Cure Wounds
         heal (1d8 * slot level) wis
   - Guardian of Nature
@@ -241,12 +240,46 @@ Spells: savedc18(8+prowis) hitdc(d20+10prowis)
         If you don’t issue any, it takes the Dodge action and uses its 
         move to avoid danger.
 
+          - Fire Elemental:
+              str 10                                  ⠀⠀⠀⠀⠀⠀⢱⣆⠀⠀⠀⠀⠀⠀
+              dex 17 +3                               ⠀⠀⠀⠀⠀⠀⠈⣿⣷⡀⠀⠀⠀⠀
+              con 16 +3                               ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣧⠀⠀⠀
+              int  6                                  ⠀⠀⠀⠀⡀⢠⣿⡟⣿⣿⣿⡇⠀⠀
+              wis 10 -2                               ⠀⠀⠀⠀⣳⣼⣿⡏⢸⣿⣿⣿⢀⠀
+              cha  7 -2                               ⠀⠀⠀⣰⣿⣿⡿⠁⢸⣿⣿⡟⣼⡆
+                                                      ⢰⢀⣾⣿⣿⠟⡀⠀⣾⢿⣿⣿⣿⣿
+              Languages Ignan                         ⢸⣿⣿⣿⡏⠀⠀⠀⠃⠸⣿⣿⣿⡿
+              Proficiency Bonus +3                    ⢳⣿⣿⣿⠀⠀⠀⠀⠀⠀⢹⣿⡿⡁
+              Armor Class 13                          ⠀⠹⣿⣿⡄⠀⠀⠀⠀⠀⢠⣿⡞⠁
+              Hit Points 102 (12d10                   ⠀⠀⠈⠛⢿⣄⠀⠀⠀⣠⠞⠋⠀⠀
+              Speed 50 ft.                            ⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀
+              
+              Damage Resistances 
+                Bludgeoning
+                Piercing
+                Slashing from Nonmagical Attacks
+              Damage Immunities
+                Fire
+                Poison
+
+              Condition Immunities 
+                Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, 
+                Prone, Restrained, Unconscious
+
+              Senses Darkvision 60 ft., 
+              Passive Perception 10
+
+
+
+
+
+
         At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.
   - Beast Sense           1Free
   - Speak with Plants     1Free
   - Locate Creature       1Free
   - Commune with Nature   1Free
-  -
+  - Snare
   -
   -
   -
