@@ -1,11 +1,12 @@
 #------------------------------------------------------------------------
 General Stats:  
-  LV:   15                    class:        ranger
-  HP:	  121,                   subclass:     hunter
+  LV:   17                     class:        ranger (hunter)
+  HP:	  141w
   Speed: 40ft
+  AC: 18
 
   Wisdom	    20		Initiative	  +4
-  Intelligence  15  		Proficiancy	  +5
+  Intelligence  15  		Proficiancy	  +6
   Charisma	    10	      
   Strength	    13
   Dexterity	    18   - 2<de    ac (w<w)     
@@ -21,15 +22,13 @@ Saving Throws:
   Dexterity	    18  + pro
   Constitution  18    
 
-
-
-
 #------------------------------------------------------------------------
 Spell slots:  [----]
-    - 1     4 [xgx]
+    - 1     4 [xxxx]
     - 2     3 [xxx-]
     - 3     3 [xxx-]
-    - 4     2 [x--]
+    - 4     2 [xxx-]
+    - 4     2 [x---]
 
 
 #------------------------------------------------------------------------
@@ -50,6 +49,7 @@ Items:
     to the attack roll for any attack you make with it.
 
  - M95 Sniper Rifle (3d12+4dex)_(d20+9prodex+2arc)
+
                             /*,,.,,*..*.,.*.,((..*/
                                     /  /  /
             ____         __Д.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Д.,.,.,.,.,.,.,_
@@ -67,8 +67,8 @@ Items:
       02 Floshbing
       03 Smokes
       xx Holy water
-      21 Explosive x2?
-      02 stun
+            29 Explosive x2?
+      06 stun
             hold person
       03 Astral bulletsx;f
             Visibility trough walls for 100 rounds or 10mins
@@ -77,7 +77,7 @@ Items:
                1 /day Strong (counterspells,...)
                
 
-Arrows 
+Arrows:
                                                                                
                                                                                 
      
@@ -85,8 +85,8 @@ Arrows
       `'-._|                           \\\\\\
 
 
-  - default
-  - fire		      5
+      - default
+      - fire		      5
       3rd-level transmutation
 
       Casting Time: 1 action
@@ -116,7 +116,7 @@ Arrows
 
         At Higher Levels. The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-  - Ice arrow		10 
+  - Ice arrow		08 
         stun 1 round
 
   - Three Blade Arrow	16
@@ -162,7 +162,7 @@ Magic Items (4AT):
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⠃⠀⠀⠀⠀
 
 
-w
+
     This golden cloak billows illusory sand around you when you walk or 
     cast a spell. The cloak has 8 charges and regains 1d6 + 2 expended charges
     each day at dawn. While wearing the cloak, you can expend 1 or more charges 
@@ -209,14 +209,14 @@ w
 
 
 
-Potions:
+Potions:""
 
         .-.   p--- .'~`. .-=~=-.   :~:      |~|   .-~~8~~-.  |~|  .-.
       .'__( .'~`.  `. .'  )___(  .'   `.    | |   |~~---~~|  | |  )__`.
       | l | | m |  .'n`. (  o  ) |  p  |] .' q `. |   r   | .'s`. | t |
       |___| |___|  `._.'  `._.'  |_____|  `.___.' `._____.' `._.' |___|
 
-  - potion of speed     0
+  - potion of speed     1
       When you drink this potion, you gain the effect of the haste spell for 1 minute 
       (no concentration required). The potion's yellow fluid is streaked with black 
       and swirls on its own.
@@ -236,5 +236,9 @@ Potions:
       Strength (Athletics) checks you make to climb. 
       The potion is separated into brown, silver, and gray layers 
       resembling bands of stone. Shaking the bottle fails to mix the colors.
+  - Magic Resist potion
+  - Healing Potion
+
 #------------------------------------------------------------------------
 elemental 102 - 36
+WArrom werk je met de hih haven (engelen)
