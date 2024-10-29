@@ -1,25 +1,23 @@
 #------------------------------------------------------------------------
 Traits:
-  -Hit Points
+  - Hit Points
     Hit Dice: 1d10 per ranger level
     Hit Points at 1st Level: 10 + your Constitution modifier
     Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
-  Proficiencies
+   Proficiencies
     Armor: Light armor, medium armor, shields
     Weapons: Simple weapons, martial weapons
     Tools: None
     Saving Throws: Strength, Dexterity
     Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
-
-  Equipment
+  - Equipment
     You start with the following equipment, in addition to the equipment granted by your background:
 
     (a) scale mail or (b) leather armor
     (a) two shortswords or (b) two simple melee weapons
     (a) a dungeoneer's pack or (b) an explorer's pack
     A longbow and a quiver of 20 arrows
-
   - Dark Vision
         You touch a willing creature to grant it the ability to see in the dark. 
         For the duration, that creature has darkvision out to a range of 60 feet.
@@ -31,7 +29,6 @@ Traits:
               (       )  (       )'
               \_   _/'  `\_   _/   
                 """        """
-
   - High Passive Perception
   - Favored Foe
       This 1st-level feature replaces the Favored Enemy feature and works with the
@@ -90,11 +87,11 @@ Traits:
         and you regain all expended uses when you finish a long rest.
 
         In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
-  Extra Attack
+  - Extra Attack
 
     Beginning at 5th level, you can attack twice, instead of once, 
     whenever you take the Attack action on your turn.
-  Land's Stride 
+  - Land's Stride 
     Starting at 8th level, moving through nonmagical difficult terrain costs you 
     no extra movement. You can also pass through nonmagical plants without being 
     slowed by them and without taking damage from them if they have thorns, spines, 
@@ -103,7 +100,7 @@ Traits:
     In addition, you have advantage on saving throws against plants that are 
     magically created or manipulated to impede movement, such as those created 
     by the Entangle spell. 
-  Nature's Veil (Optional)
+  - Nature's Veil (Optional)
     This 10th-level feature replaces the Hide in Plain Sight feature. 
     You gain no benefit from the replaced feature and don't qualify for anything 
     in the game that requires it.
@@ -114,24 +111,22 @@ Traits:
 
     You can use this feature a number of times equal to your proficiency bonus, 
     and you regain all expended uses when you finish a long rest.    
-  Archery
+  - Archery
     You gain a +2 bonus to attack rolls you make with ranged weapons.
-  Vanish
+  - Vanish
     Starting at 14th level, you can use the Hide action as a bonus action on your 
     turn. Also, you can't be tracked by nonmagical means, unless you choose to 
     leave a trail.
-
-  Feral Senses UNLOCKS AT LVL 18
+  - Feral Senses UNLOCKS AT LVL 18
     At 18th level, you gain preternatural senses that help you fight creatures you 
     can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
     You are also aware of the location of any invisible creature within 30 feet of 
     you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
-
-  Foe Slayer UNLOCKS AT LVL 20
+  - Foe Slayer UNLOCKS AT LVL 20
     At 20th level, you become an unparalleled hunter of your enemies. Once on each 
     of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
-  Primal Awareness (Optional)
+  - Primal Awareness (Optional)
     This 3rd-level feature replaces the Primeval Awareness feature. 
     You gain no benefit from the replaced feature and don't qualify for
     anything in the game that requires it.
@@ -152,21 +147,39 @@ Traits:
 
 #------------------------------------------------------------------------
 Languages:
-  - Elvish
-  - Common
-  - Celestial
-  - Draconic
-  - Deep Speech
+
+  .-.---------------------------------.-.
+  ((o))                                   )
+   \U/_______          _____         ____/
+     |                                  |
+     |                                  |
+     |                                  |
+     |      Elvish                      |
+     |      Common                      |
+     |      Celestial                   |
+     |      Draconic                    |
+     |      Deep Speech                 |
+     |                                  |
+     |                                  |
+     |                                  |
+     |____    _______    __  ____    ___|
+    /A\                                  \
+   ((o))                                  )
+    '-'----------------------------------'
 
 
 #------------------------------------------------------------------------
 savedc18(8+prowis) hitdc(d20+10prowis):
-  ____             _ _     
-  / ___| _ __   ___| | |___ 
-  \___ \| '_ \ / _ \ | / __|
-  ___) | |_) |  __/ | \__ \
-  |____/| .__/ \___|_|_|___/
-        |_|  
+
+  ____             _ _         ,-----------.
+  / ___| _ __   ___| | |___    (_\           \
+  \___ \| '_ \ / _ \ | / __|      |           |
+  ___) | |_) |  __/ | \__ \       |           |
+  |____/| .__/ \___|_|_|___/     _|           |
+        |_|                     (_/_____(*)___/
+                                         \\
+                                          ))      
+                                          ^
 
   - Speak with Animals    1Free
       1st-level divination (ritual)
@@ -203,7 +216,6 @@ savedc18(8+prowis) hitdc(d20+10prowis):
       At Higher Levels. If you cast this spell using a spell slot of 2nd 
       level or higher, the damage increases by 1d10 for each slot level above 
       1st (to a maximum of 6d10).
-
   - Cure Wounds
         heal (1d8 * slot level) wis
                             _________
@@ -357,9 +369,6 @@ savedc18(8+prowis) hitdc(d20+10prowis):
       A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
       Spell Lists. Artificer, Ranger, Wizard
-  
-   
-
 
 
 #------------------------------------------------------------------------
