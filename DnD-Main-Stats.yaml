@@ -1,20 +1,21 @@
 #------------------------------------------------------------------------
-General Stats:  
-  LV:   17                     class:        ranger (hunter)
-  HP:	  141w
-  Speed: 40ft
-  AC: 18
+General Stats:
+  class: ranger (hunter)   
+  LV:    17                   
+  HP:	   141
+  Speed: 40
+  AC:    18
 
-  Wisdom	    20		Initiative	  +4
-  Intelligence  15  		Proficiancy	  +6
-  Charisma	    10	      
-  Strength	    13
-  Dexterity	    18   - 2<de    ac (w<w)     
-  Constitution  18                
+  Wisdom	    20 +5		Initiative	  +4
+  Intelligence  15 +2		Proficiancy	  +6
+  Charisma	    10 	      
+  Strength	    13 +1
+  Dexterity	    18 +4     
+  Constitution  18 +4               
 
 #------------------------------------------------------------------------
 Saving Throws:
-  
+      
   Wisdom	    20		
   Intelligence  15  	
   Charisma	    10	      
@@ -72,10 +73,17 @@ Items:
             hold person
       03 Astral bulletsx;f
             Visibility trough walls for 100 rounds or 10mins
+      01 Datura Infused 
+            AoE 10ft
+            con save throw
+                  Succeed niks
+                  fail - paralysed
       Editing: 5 /day Damage modifier
                3 /day Tacticals (floshbong, trap, smokes, ...)
                1 /day Strong (counterspells,...)
                
+
+ - Alchemist Kit
 
 Arrows:
                                                                                
@@ -238,7 +246,6 @@ Potions:""
       resembling bands of stone. Shaking the bottle fails to mix the colors.
   - Magic Resist potion
   - Healing Potion
+  
 
 #------------------------------------------------------------------------
-elemental 102 - 36
-WArrom werk je met de hih haven (engelen)
