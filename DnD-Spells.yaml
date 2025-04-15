@@ -16,7 +16,7 @@ Traits:
 
     (a) scale mail or (b) leather armor
     (a) two shortswords or (b) two simple melee weapons
-    (a) a dungeoneer's pack or (b) an explorer's pack
+    (a) a dungeoneer's pack or (b) an explorer's pack 
     A longbow and a quiver of 20 arrows
   - Dark Vision
         You touch a willing creature to grant it the ability to see in the dark. 
@@ -53,7 +53,7 @@ Traits:
       it takes an extra 1d6 damage from the weapon.
       This benefit lasts until you finish a short or long rest. 
       It ends early if you designate a different creature.
-  - Multiattack        
+  - Multiat3(nie echt) -483(nie echt) -483(nie echt) -48tack        
         Whirlwind Attack: -  You can use your action to make 
         melee attacks against any number of creatures within 5 feet of you,
         with a separate attack roll for each target.
@@ -117,12 +117,14 @@ Traits:
     Starting at 14th level, you can use the Hide action as a bonus action on your 
     turn. Also, you can't be tracked by nonmagical means, unless you choose to 
     leave a trail.
-  - Feral Senses UNLOCKS AT LVL 18
+  - Feral Senses
     At 18th level, you gain preternatural senses that help you fight creatures you 
-    can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+    can't see. When you attack a creature you can't see, your inability to see it 
+    doesn't impose disadvantage on your attack rolls against it.
 
     You are also aware of the location of any invisible creature within 30 feet of 
-    you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+    you, provided that the creature isn't hiddenhttps://g.co/kgs/U7uifHU from you and 
+    you aren't blinded or deafened.
   - Foe Slayer UNLOCKS AT LVL 20
     At 20th level, you become an unparalleled hunter of your enemies. Once on each 
     of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
@@ -163,7 +165,7 @@ Languages:
      |                                  |
      |                                  |
      |____    _______    __  ____    ___|
-    /A\                                  \
+  )w  /A\                                  \
    ((o))                                  )
     '-'----------------------------------'
 
@@ -174,14 +176,24 @@ savedc18(8+prowis) hitdc(d20+10prowis):
   ____             _ _         ,-----------.
   / ___| _ __   ___| | |___    (_\           \
   \___ \| '_ \ / _ \ | / __|      |           |
-  ___) | |_) |  __/ | \__ \       |           |
+  ___) | |_) |  __/ | \__ \       |  pro +6   |
   |____/| .__/ \___|_|_|___/     _|           |
         |_|                     (_/_____(*)___/
                                          \\
                                           ))      
                                           ^
 
+    
   - Speak with Animals    1Free
+      _____________
+      < John Borno! >
+      -------------
+              \   ^__^
+              \  (oo)\_______
+                  (__)\       )\/\
+                      ||----w |
+                      ||     ||
+
       1st-level divination (ritual)
 
       Casting Time: 1 action
@@ -189,9 +201,7 @@ savedc18(8+prowis) hitdc(d20+10prowis):
       Components: V, S
       Duration: 10 minutes
 
-      You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
 
-      Spell Lists. Bard, Druid, Ranger
   - Hail of Thorns
       1st-level conjuration
 
@@ -252,7 +262,7 @@ savedc18(8+prowis) hitdc(d20+10prowis):
           You make Constitution saving throws with advantage.
           You make Dexterity and Wisdom-based attack rolls with advantage.
           While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
-  - Freedom of Movement
+    - Freedom of Movement
         4th-level abjuration
 
         Casting Time: 1 action
@@ -330,6 +340,19 @@ savedc18(8+prowis) hitdc(d20+10prowis):
   - Speak with Plants     1Free
   - Locate Creature       1Free
   - Commune with Nature   1Free
+      You briefly become one with nature and gain knowledge of the surrounding territory.
+      In the outdoors, the spell gives you knowledge of the land within 3 miles of you.
+      In caves and other natural underground settings, the radius is limited to 300 feet. 
+      The spell doesn't function where nature has been replaced by construction, 
+      such as in dungeons and towns.
+
+      You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
+          - terrain and bodies of water
+          - prevalent plants, minerals, animals, or peoples
+          - powerful celestials, fey, fiends, elementals, or undead
+          - influence from other planes of existence
+          - buildings
+
   - Snare
   - Conjure Volley
             5th-level conjuration
@@ -375,7 +398,7 @@ savedc18(8+prowis) hitdc(d20+10prowis):
 Skills:
   Acrobatics        - dex 
   Animal Handling   - wis
-  Arcana            - intè
+  Arcana            - int
   Athletics         - str
   Deception         - cha
   History           - int
