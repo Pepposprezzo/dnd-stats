@@ -2,26 +2,29 @@
 General Stats:
   class: ranger (hunter)   
   LV:    17                   
-  HP:	   141
+  HP:	   160 
   Speed: 40
   AC:    18
 
-  Wisdom	    20 +5		Initiative	  +4
-  Intelligence  15 +2		Proficiancy	  +6
-  Charisma	    10 	      
-  Strength	    13 +1
-  Dexterity	    18 +4     
-  Constitution  18 +4               
+  Initiative:   19 +4
+  Proficiancy:	 +6
+  Wisdom:	    20 +5		
+  Intelligence: 15 +2		
+  Charisma:	    10 +0 	      
+  Strength:	    13 +1
+  Dexterity:    18 +4     
+  Constitution: 18 +4
+                 ²
 
 #------------------------------------------------------------------------
 Saving Throws:
       
-  Wisdom	    20		
-  Intelligence  15  	
-  Charisma	    10	      
-  Strength	    13  + pro
-  Dexterity	    18  + pro
-  Constitution  18    
+  Wisdom:	    20 +5		
+  Intelligence: 15 +2 	
+  Charisma:	    10 +0	      
+  Strength:	    13 +1 + pro
+  Dexterity:    18 +4 + pro
+  Constitution: 18 +4   
 
 #------------------------------------------------------------------------
 Spell slots:  [----]
@@ -49,7 +52,7 @@ Items:
     Proficiency with a shortsword allows you to add your proficiency bonus 
     to the attack roll for any attack you make with it.
 
- - M95 Sniper Rifle (3d12+4dex)_(d20+9prodex+2arc)
+ - M95 Sniper Rifle (3d12+4dex)_(d20+9prodex+2arc)bi
 
                             /*,,.,,*..*.,.*.,((..*/
                                     /  /  /
@@ -73,7 +76,7 @@ Items:
             hold person
       03 Astral bulletsx;f
             Visibility trough walls for 100 rounds or 10mins
-      01 Datura Infused 
+     = 01 Datura Infused 
             AoE 10ft
             con save throw
                   Succeed niks
@@ -84,6 +87,8 @@ Items:
                
 
  - Alchemist Kit
+
+
 
 Arrows:
                                                                                
@@ -136,6 +141,8 @@ Arrows:
   - Teleportation Arrow 1
 
   - bottled mustard gas
+  - Holy water 0
+  
 
     
 #------------------------------------------------------------------------
@@ -169,7 +176,7 @@ Magic Items (4AT):
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠙⣿⣿⣿⠏⠀⠀⠀
                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⠃⠀⠀⠀⠀
 
-
+"é(kj'i(RDGFN))"
 
     This golden cloak billows illusory sand around you when you walk or 
     cast a spell. The cloak has 8 charges and regains 1d6 + 2 expended charges
@@ -224,7 +231,7 @@ Potions:""
       | l | | m |  .'n`. (  o  ) |  p  |] .' q `. |   r   | .'s`. | t |
       |___| |___|  `._.'  `._.'  |_____|  `.___.' `._____.' `._.' |___|
 
-  - potion of speed     1
+  - potion of speed     3
       When you drink this potion, you gain the effect of the haste spell for 1 minute 
       (no concentration required). The potion's yellow fluid is streaked with black 
       and swirls on its own.
@@ -246,6 +253,7 @@ Potions:""
       resembling bands of stone. Shaking the bottle fails to mix the colors.
   - Magic Resist potion
   - Healing Potion
-  
+  - greater mana potion
+  - infernal communication device
 
 #------------------------------------------------------------------------
